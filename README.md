@@ -22,6 +22,11 @@ Jharkhand is one of the leading states in terms of economic growth. It is one of
 8. Terrain models used to estimate shadow regions, slope and aspect allocation/ siting: allocation of land for different resources. 
 9. Preparing comprehensive thematic maps for planners, decision-makers, and environmentalists.
 
+### Data Sources: 
+
+* LANDSAT-7 Satellite Dataset sourced using Google Earth Engine 
+* Composite Dataset : NDVI < 'LANDSAT/LE07/C01/T1_ANNUAL_NDVI' >
+
 
 ![Image1](/Images/ndvi_with_buffer.png "NDVI values with a buffer of 20km around Jharkhand's State Boundary")
 
