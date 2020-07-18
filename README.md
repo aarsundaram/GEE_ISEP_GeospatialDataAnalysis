@@ -23,3 +23,4 @@ Jharkhand is one of the leading states in terms of economic growth. It is one of
 9. Preparing comprehensive thematic maps for planners, decision-makers, and environmentalists.
 
 
+![alt text](https://github.com/aarsundaram/GEE_ISEP_GeospatialDataAnalysis/Images/ndvi with buffer.png "NDVI values with a buffer of 20km around Jharkhand's State Boundary")
