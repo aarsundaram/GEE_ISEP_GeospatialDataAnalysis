@@ -2,6 +2,8 @@ var dataset = ee.ImageCollection('MODIS/006/MYD11A1')
                   .filter(ee.Filter.date('2008-01-01', '2018-05-01'))
                   .filterBounds(jharkhand);
 //MODIS/006/MOD11A2
+//MODIS/006/MYD11A1
+
 var landSurfaceTemperature = dataset.select('LST_Day_1km');
 var landSurfaceTemperatureVis = {
   min: -20,
