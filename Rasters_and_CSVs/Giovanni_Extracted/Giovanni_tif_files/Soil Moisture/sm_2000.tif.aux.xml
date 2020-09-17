@@ -1,0 +1,74 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#cell_methods">time: mean</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#coordinates">lat lon</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#fullnamepath">/RootMoist_inst</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#latitude_resolution">0.25</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#longitude_resolution">0.25</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#long_name">Root zone soil moisture</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#missing_value">-9999</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#origname">RootMoist_inst</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#product_short_name">GLDAS_NOAH025_M</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#product_version">2.1</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#quantity_type">Soil Moisture</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#standard_name">root_zone_soil_moisture</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#units">kg m-2</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#vmax">897.35492</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#vmin">2.0001254</MDI>
+    <MDI key="GLDAS_NOAH025_M_2_1_RootMoist_inst#_FillValue">-9999</MDI>
+    <MDI key="lat#bounds">lat_bnds</MDI>
+    <MDI key="lat#standard_name">latitude</MDI>
+    <MDI key="lat#units">degrees_north</MDI>
+    <MDI key="lon#bounds">lon_bnds</MDI>
+    <MDI key="lon#fullnamepath">/lon</MDI>
+    <MDI key="lon#missing_value">-9999</MDI>
+    <MDI key="lon#origname">lon</MDI>
+    <MDI key="lon#standard_name">longitude</MDI>
+    <MDI key="lon#units">degrees_east</MDI>
+    <MDI key="lon#vmax">179.875</MDI>
+    <MDI key="lon#vmin">-179.875</MDI>
+    <MDI key="lon#_FillValue">-9999</MDI>
+    <MDI key="NC_GLOBAL#Conventions">CF-1.4</MDI>
+    <MDI key="NC_GLOBAL#end_time">2001-02-01T00:00:00Z</MDI>
+    <MDI key="NC_GLOBAL#history">Wed Aug 26 18:51:36 2020: /usr/bin/ncks -O -x -v time_bnds timeAvgMap.GLDAS_NOAH025_M_2_1_RootMoist_inst.20000101-20010131.180W_60S_180E_90N.nc timeAvgMap.GLDAS_NOAH025_M_2_1_RootMoist_inst.20000101-20010131.180W_60S_180E_90N.nc
+Wed Aug 26 18:51:35 2020: /usr/bin/ncatted -a valid_range,,d,, -O -o timeAvgMap.GLDAS_NOAH025_M_2_1_RootMoist_inst.20000101-20010131.180W_60S_180E_90N.nc timeAvgMap.GLDAS_NOAH025_M_2_1_RootMoist_inst.20000101-20010131.180W_60S_180E_90N.nc
+Wed Aug 26 18:51:23 2020: /usr/bin/ncatted -O -a title,global,o,c,GLDAS_NOAH025_M_2_1_RootMoist_inst Averaged over 2000-01-01 to 2001-01-31 timeAvgMap.GLDAS_NOAH025_M_2_1_RootMoist_inst.20000101-20010131.180W_60S_180E_90N.nc
+Wed Aug 26 18:51:17 2020: /usr/bin/ncks -x -v time -o timeAvgMap.GLDAS_NOAH025_M_2_1_RootMoist_inst.20000101-20010131.180W_60S_180E_90N.nc -O timeAvgMap.GLDAS_NOAH025_M_2_1_RootMoist_inst.20000101-20010131.180W_60S_180E_90N.nc
+Wed Aug 26 18:51:16 2020: /usr/bin/ncwa -o timeAvgMap.GLDAS_NOAH025_M_2_1_RootMoist_inst.20000101-20010131.180W_60S_180E_90N.nc -a time -O timeAvgMap.GLDAS_NOAH025_M_2_1_RootMoist_inst.20000101-20010131.180W_60S_180E_90N.nc
+Wed Aug 26 18:51:02 2020: /usr/bin/ncra -D 2 -H -O -o timeAvgMap.GLDAS_NOAH025_M_2_1_RootMoist_inst.20000101-20010131.180W_60S_180E_90N.nc -d lat,-60.000000,90.000000 -d lon,-180.000000,180.000000
+Wed Aug 26 18:49:55 2020: /usr/bin/ncks -d lat,6.502917,35.763330 -d lon,67.912430,97.645563 /var/giovanni/session/DE34831C-D8A6-11EA-A9C6-F3C6E49ED59E/687C0692-E7CC-11EA-8BAA-8D015F835E51/687EE5BA-E7CC-11EA-8BAA-8D015F835E51///scrubbed.GLDAS_NOAH025_M_2_1_RootMoist_inst.20000101.nc /var/giovanni/session/DE34831C-D8A6-11EA-A9C6-F3C6E49ED59E/687C0692-E7CC-11EA-8BAA-8D015F835E51/687EE5BA-E7CC-11EA-8BAA-8D015F835E51/shapeMasked.scrubbed.GLDAS_NOAH025_M_2_1_RootMoist_inst.20000101.nc</MDI>
+    <MDI key="NC_GLOBAL#NCO">"4.5.3"</MDI>
+    <MDI key="NC_GLOBAL#nco_openmp_thread_number">1</MDI>
+    <MDI key="NC_GLOBAL#start_time">2000-01-01T00:00:00Z</MDI>
+    <MDI key="NC_GLOBAL#title">GLDAS_NOAH025_M_2_1_RootMoist_inst Averaged over 2000-01-01 to 2001-01-31</MDI>
+    <MDI key="NC_GLOBAL#userenddate">2001-01-31T23:59:59Z</MDI>
+    <MDI key="NC_GLOBAL#userstartdate">2000-01-01T00:00:00Z</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <UnitType>kg m-2</UnitType>
+    <Metadata>
+      <MDI key="cell_methods">time: mean</MDI>
+      <MDI key="coordinates">lat lon</MDI>
+      <MDI key="fullnamepath">/RootMoist_inst</MDI>
+      <MDI key="latitude_resolution">0.25</MDI>
+      <MDI key="longitude_resolution">0.25</MDI>
+      <MDI key="long_name">Root zone soil moisture</MDI>
+      <MDI key="missing_value">-9999</MDI>
+      <MDI key="NETCDF_VARNAME">GLDAS_NOAH025_M_2_1_RootMoist_inst</MDI>
+      <MDI key="origname">RootMoist_inst</MDI>
+      <MDI key="product_short_name">GLDAS_NOAH025_M</MDI>
+      <MDI key="product_version">2.1</MDI>
+      <MDI key="quantity_type">Soil Moisture</MDI>
+      <MDI key="standard_name">root_zone_soil_moisture</MDI>
+      <MDI key="STATISTICS_MAXIMUM">715.890625</MDI>
+      <MDI key="STATISTICS_MEAN">258.72375367956</MDI>
+      <MDI key="STATISTICS_MINIMUM">10.546359062195</MDI>
+      <MDI key="STATISTICS_STDDEV">114.86742054281</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">33.46</MDI>
+      <MDI key="units">kg m-2</MDI>
+      <MDI key="vmax">897.35492</MDI>
+      <MDI key="vmin">2.0001254</MDI>
+      <MDI key="_FillValue">-9999</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
