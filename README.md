@@ -38,5 +38,5 @@ Jharkhand is one of the leading states in terms of economic growth. It is one of
 ![Image2](/Images/jharkhand2008_landuse.png "LandUse Types Jharkhand 2008")
 
 #### 3. Land Surface Temperature Map
-![Image3](/Images/LST_map_2008_2018_MYD11A1.png "Land Surface Temperature Map from 2008 to 2018"
+![Image3](/Images/LST_map_2008_2018_MYD11A1.png "Land Surface Temperature Map from 2008 to 2018")
 
