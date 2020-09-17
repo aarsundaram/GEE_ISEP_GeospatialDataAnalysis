@@ -24,10 +24,21 @@ Jharkhand is one of the leading states in terms of economic growth. It is one of
 
 ### Data Sources: 
 
-* LANDSAT-7 Satellite Dataset sourced using Google Earth Engine 
+* LANDSAT-7 Dataset sourced using Google Earth Engine 
 * Composite Dataset : NDVI < 'LANDSAT/LE07/C01/T1_ANNUAL_NDVI' >
+* Giovanni GLDAS Noah
+* MCD12Q1-LCType1 for LandCover Types 
 
+### Sample visualizations of some data collected: 
 
+#### 1. NDVI values 
 ![Image1](/Images/ndvi_with_buffer.png "NDVI values with a buffer of 20km around Jharkhand's State Boundary")
 
+#### 2. Land-use types 
+
+![Image2](/Images/jharkhand2008_landuse.png "LandUse Types Jharkhand 2008")
+
+#### 3. Annual Forest Cover Loss 
+
+![Image3](/Images/jharkhand_annual_forest_loss.png "Annual Forest Cover Loss for Jharkhand from 2000 to 2019"
 
