@@ -35,10 +35,8 @@ Jharkhand is one of the leading states in terms of economic growth. It is one of
 ![Image1](/Images/ndvi_with_buffer.png "NDVI values with a buffer of 20km around Jharkhand's State Boundary")
 
 #### 2. Land-use types 
-
 ![Image2](/Images/jharkhand2008_landuse.png "LandUse Types Jharkhand 2008")
 
-#### 3. Annual Forest Cover Loss 
-
-![Image3](/Images/jharkhand_annual_forest_loss.png "Annual Forest Cover Loss for Jharkhand from 2000 to 2019"
+#### 3. Land Surface Temperature Map
+![Image3](/Images/LST_map_2008_2018_MYD11A1.png "Land Surface Temperature Map from 2008 to 2018"
 
